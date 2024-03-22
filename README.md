@@ -55,7 +55,7 @@ Reference Number : 212221230100.
 ```
 
 ## Importing the required packages
-~~~
+~~~python
 
 import numpy as np
 from tensorflow import keras
